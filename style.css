@@ -30,13 +30,13 @@ h1 {
 }
 .anchor-button {
   font-family: Poppins;
-  font-size: 20px;
+  font-size: 15px;
   color: white;
   text-decoration: none;
   background: color blue;
   background-image: linear-gradient(rgb(61, 61, 122), rgb(5, 19, 80));
   border-radius: 10px;
-  padding: 5px 10px;
+  padding: 15px 30px;
 }
 .seperate-div {
   margin-left: 0px;
